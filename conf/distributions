@@ -1,0 +1,30 @@
+# Ubuntu 24.04 (Noble)
+Origin: knapt
+Label: knapt
+Suite: noble
+Codename: noble
+Version: 24.04
+Architectures: amd64 arm64
+Components: main
+SignWith: 896D4666038ED066091FEFCE91543ACB5145FC77
+
+# Ubuntu 22.04 (Jammy)
+Origin: knapt
+Label: knapt
+Suite: jammy
+Codename: jammy
+Version: 22.04
+Architectures: amd64 arm64
+Components: main universe
+SignWith: 896D4666038ED066091FEFCE91543ACB5145FC77
+
+# Ubuntu 20.04 (Focal)
+Origin: knapt
+Label: knapt
+Suite: focal
+Codename: focal
+Version: 20.04
+Architectures: amd64
+Components: main
+SignWith: 896D4666038ED066091FEFCE91543ACB5145FC77
+

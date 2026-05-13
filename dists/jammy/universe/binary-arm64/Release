@@ -1,0 +1,6 @@
+Archive: jammy
+Version: 22.04
+Component: universe
+Origin: knapt
+Label: knapt
+Architecture: arm64

@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: knapt
+Label: knapt
+Suite: focal
+Codename: focal
+Version: 20.04
+Date: Wed, 13 May 2026 21:37:46 UTC
+Architectures: amd64
+Components: main
+MD5Sum:
+ 3741cde79f52c9e17d326996b55d388b 1145 main/binary-amd64/Packages
+ bbc5b4d81402ad7bed6b7450ddf8e3dc 686 main/binary-amd64/Packages.gz
+ 189cfb93a0cf65404409db3255c33601 93 main/binary-amd64/Release
+SHA1:
+ 7fc0efd71fccbcb24629113723873b56d40b4977 1145 main/binary-amd64/Packages
+ 752bdecbdbcc843bf1688e9aab6a477999b9a51f 686 main/binary-amd64/Packages.gz
+ 198604f0f434ddcf86bf2a9440662283aa328709 93 main/binary-amd64/Release
+SHA256:
+ 97a4369e6b8e628a66b453f82cb3778ec622d508782caeb3b05e09e9463f8e73 1145 main/binary-amd64/Packages
+ d5794367d828e2b1adb86a40b2f7a717c1393a2535b8ee606a11f7d52ce18ae0 686 main/binary-amd64/Packages.gz
+ e7edef637ebb6887ab9702bc0b90199b7830bb8dfabcfb27c8f66b606df8b1e9 93 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEiW1GZgOO0GYJH+/OkVQ6y1FF/HcFAmoE7yoACgkQkVQ6y1FF
+/HfNiw/+MKsqxFpHxuqcOwdCk6WWmx3A7SKeFrMETCI4n3mcqgHzGLowOnefFNLY
+sRyvbVUJ2Un7QtwR0dGDizbxtm0zj6Ubl5FZIGq37s3qSQXcOWwKrfDTq6+tITV4
+fr7tB7m4AwZU+jmd0QP22iRxjmAjFhopXzKTpG2VKkgLcjBERVQtf/7b/7156IAx
+Uo9wHbainZXlyTZDq9cNAbVQb3lEBKT1vWVaW7VNCRMTkV3GpCU30pp7vSrSE4Qy
+nypMl95FO0b66MWIfqg/5Tn4oXiEKkF/qD25D0Q83ninXxiXrZordwGbE1Pe0Ssv
+yLJiMtcVFx/PycadJXVI4t3XPZikNZ80jPJIKaYxsgOHOyz6dGXaAntfGNsv2hQo
+Q18G+KtJ5xXCdm8WZlxhkIVf7tb5TOypiKy58dtS5CZAJMfL4HFtZ5u+oMvoytBq
+B0RndFQJmf7j8k9MPXuuMTEDEZzzmGtHbUgIhjybNo4b0wLHLtHaqPA2LbqgGdyW
+E8iD3ihFbSetMDLGQX+wtEVJ3ux7pDk05EFwg00fDMy4t04fFsP9gfav/4RkbB2/
+sBSwf0ANyUavUoKd1DmBggGEFqCgpOJNbrvWcl/BZSXc4ePYIYnnwsekLguo1eyC
+lMrfyH/M+zR6z3YxjFd4LJccpm10+psa1CAGCjXhL9kjnWs8rbA=
+=GxFD
+-----END PGP SIGNATURE-----

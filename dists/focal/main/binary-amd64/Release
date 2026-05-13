@@ -1,0 +1,6 @@
+Archive: focal
+Version: 20.04
+Component: main
+Origin: knapt
+Label: knapt
+Architecture: amd64

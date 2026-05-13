@@ -1,0 +1,29 @@
+Origin: knapt
+Label: knapt
+Suite: noble
+Codename: noble
+Version: 24.04
+Date: Wed, 13 May 2026 21:37:29 UTC
+Architectures: amd64 arm64
+Components: main
+MD5Sum:
+ 3741cde79f52c9e17d326996b55d388b 1145 main/binary-amd64/Packages
+ bbc5b4d81402ad7bed6b7450ddf8e3dc 686 main/binary-amd64/Packages.gz
+ 975212eaf1b6656205361d339546e2f7 93 main/binary-amd64/Release
+ 3741cde79f52c9e17d326996b55d388b 1145 main/binary-arm64/Packages
+ bbc5b4d81402ad7bed6b7450ddf8e3dc 686 main/binary-arm64/Packages.gz
+ ac1dec5e17e2e8c4b489718b3f7bad86 93 main/binary-arm64/Release
+SHA1:
+ 7fc0efd71fccbcb24629113723873b56d40b4977 1145 main/binary-amd64/Packages
+ 752bdecbdbcc843bf1688e9aab6a477999b9a51f 686 main/binary-amd64/Packages.gz
+ f2296fb11d24f070d88d0366beb66b6d341528cf 93 main/binary-amd64/Release
+ 7fc0efd71fccbcb24629113723873b56d40b4977 1145 main/binary-arm64/Packages
+ 752bdecbdbcc843bf1688e9aab6a477999b9a51f 686 main/binary-arm64/Packages.gz
+ 5f5880be5c81436293f5a19028ed3d5b8c89531d 93 main/binary-arm64/Release
+SHA256:
+ 97a4369e6b8e628a66b453f82cb3778ec622d508782caeb3b05e09e9463f8e73 1145 main/binary-amd64/Packages
+ d5794367d828e2b1adb86a40b2f7a717c1393a2535b8ee606a11f7d52ce18ae0 686 main/binary-amd64/Packages.gz
+ 83e07179f97ef5b6e45ed8ade009d7c1ef4e20bd503fa22da7b8e4fa46b2355e 93 main/binary-amd64/Release
+ 97a4369e6b8e628a66b453f82cb3778ec622d508782caeb3b05e09e9463f8e73 1145 main/binary-arm64/Packages
+ d5794367d828e2b1adb86a40b2f7a717c1393a2535b8ee606a11f7d52ce18ae0 686 main/binary-arm64/Packages.gz
+ c2f5dab744275d407650521b8c4034777129aeeae9dcdc3580eaa36a64e43d64 93 main/binary-arm64/Release

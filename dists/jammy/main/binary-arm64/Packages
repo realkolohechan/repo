@@ -1,0 +1,30 @@
+Package: pepperde
+Version: 1.0
+Architecture: all
+Maintainer: Your Name <you@example.com>
+Depends: openbox, tint2, nitrogen, zenity, scrot, xorg, x11-utils, x11-xserver-utils, nemo, kitty, gvfs, gvfs-backends
+Priority: optional
+Section: x11
+Filename: pool/main/p/pepperde/pepperde_1.0_all.deb
+Size: 5990
+SHA256: 0b98ce0648df99e4afacfd1b57cfe275318ab96a7e32fa2eb6a528ca83892c89
+SHA1: c39a63a823a1d438e1750d655d11ffd3eff9b7e7
+MD5sum: b2736068ec02b3df4d98d22241762140
+Description: PepperDE - A lightweight custom desktop environment
+ A minimal desktop environment built around Openbox, Tint2, and Nitrogen.
+ Includes a Zenity-based logout loop, Nemo file management, and a terminal-centric workflow.
+
+Package: spm
+Version: 1.0
+Architecture: all
+Maintainer: kolohe
+Depends: libc6 (>= 2.31), libgtk-3-0 (>= 3.24), libgpgme11 (>= 1.14), libgpg-error0 (>= 1.38), libglib2.0-0 (>= 2.64)
+Priority: optional
+Section: utils
+Filename: pool/main/s/spm/spm_1.0_all.deb
+Size: 94280
+SHA256: 2c8054d8655ad11e82bdf6183a0d5926fb781f4e5c48bf08a15e8b9c93f6f9b9
+SHA1: 72554e8e86fe16e59fa2d04853dd21bcc649c968
+MD5sum: 27e0258b4072a335359843c003f8adad
+Description: spm
+
