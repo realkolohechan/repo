@@ -3,7 +3,7 @@ Label: knapt
 Suite: jammy
 Codename: jammy
 Version: 22.04
-Date: Thu, 14 May 2026 14:26:21 UTC
+Date: Thu, 14 May 2026 14:48:18 UTC
 Architectures: amd64 arm64
 Components: main universe
 MD5Sum:
