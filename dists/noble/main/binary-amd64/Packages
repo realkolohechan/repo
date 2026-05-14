@@ -14,6 +14,20 @@ Description: PepperDE - A lightweight custom desktop environment
  A minimal desktop environment built around Openbox, Tint2, and Nitrogen.
  Includes a Zenity-based logout loop, Nemo file management, and a terminal-centric workflow.
 
+Package: scratux
+Version: 1.0.0
+Architecture: amd64
+Depends: libc6 (>= 2.31), libgtk-3-0, ffmpeg
+Maintainer: Your Name <you@example.com>
+Priority: optional
+Section: utils
+Filename: pool/main/s/scratux/scratux_1.0.0_amd64.deb
+Size: 145002924
+SHA256: cb68107f224ba55e11200ee347e8b2a28e3bc173f58e91e578eb9bdd94c564af
+SHA1: 4075881d058d68cb5efe600b761acf530f477f0f
+MD5sum: fd5a919ac6ae04e8c0c6ee72e1d18344
+Description: A free programming language where you can create your own interactive stories, games, and animations.
+
 Package: spm
 Version: 1.0
 Architecture: all

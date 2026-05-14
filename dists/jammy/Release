@@ -3,12 +3,12 @@ Label: knapt
 Suite: jammy
 Codename: jammy
 Version: 22.04
-Date: Thu, 14 May 2026 14:48:18 UTC
+Date: Thu, 14 May 2026 14:50:45 UTC
 Architectures: amd64 arm64
 Components: main universe
 MD5Sum:
- d02b52a7d56ec14b40377eed7690da33 1145 main/binary-amd64/Packages
- fe4fe18d2ffb1868a42f2b115dfe8e99 687 main/binary-amd64/Packages.gz
+ 1c3ba3c0b9b46a7f9a6668f526686790 1663 main/binary-amd64/Packages
+ 7335702ebdff5bdc06ff88354a238a55 889 main/binary-amd64/Packages.gz
  420be49fd5a307f5fe42ee5314f79ecb 93 main/binary-amd64/Release
  d02b52a7d56ec14b40377eed7690da33 1145 main/binary-arm64/Packages
  fe4fe18d2ffb1868a42f2b115dfe8e99 687 main/binary-arm64/Packages.gz
@@ -20,8 +20,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 universe/binary-arm64/Packages.gz
  e019257db3c1a8afd9ed278653401791 97 universe/binary-arm64/Release
 SHA1:
- ac1d8cab9d8ba243fbf86ec6231d25e5a472426e 1145 main/binary-amd64/Packages
- 6bbac14cc742b849d78ddab777bf364e31557e33 687 main/binary-amd64/Packages.gz
+ 95abc0397e05ceed11e1d4158ef8f53dd7957256 1663 main/binary-amd64/Packages
+ 0d21712f39ff7e0d6ed5adb4332baeafdbf76121 889 main/binary-amd64/Packages.gz
  54ce8ff2ae3e0ea96f961001bd8df1423e257608 93 main/binary-amd64/Release
  ac1d8cab9d8ba243fbf86ec6231d25e5a472426e 1145 main/binary-arm64/Packages
  6bbac14cc742b849d78ddab777bf364e31557e33 687 main/binary-arm64/Packages.gz
@@ -33,8 +33,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 universe/binary-arm64/Packages.gz
  4f310e0302ee09c662ff95cbacddc4ba50f8f38c 97 universe/binary-arm64/Release
 SHA256:
- 29a8803aeaf9074e18d0a85b2602c32ba23527ba46c82fdb25a03d4b76655960 1145 main/binary-amd64/Packages
- a80fde288becc14d0f295b5a6bac88e2c1f06d74e33679aec650ed81e72cefcb 687 main/binary-amd64/Packages.gz
+ 2608f455662620d6bedccb113967c23f454e796753cead5ba555a8187bcf781c 1663 main/binary-amd64/Packages
+ 591623ffd9168ea44c89e917a7bb511d3c5e48b44eb5dbac29ba73c48e314e89 889 main/binary-amd64/Packages.gz
  192291456f9c77eac84618d85d8d43fc976892bedd3bdf5d60062b4c21b1f6e5 93 main/binary-amd64/Release
  29a8803aeaf9074e18d0a85b2602c32ba23527ba46c82fdb25a03d4b76655960 1145 main/binary-arm64/Packages
  a80fde288becc14d0f295b5a6bac88e2c1f06d74e33679aec650ed81e72cefcb 687 main/binary-arm64/Packages.gz

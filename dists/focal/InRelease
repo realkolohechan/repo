@@ -6,34 +6,34 @@ Label: knapt
 Suite: focal
 Codename: focal
 Version: 20.04
-Date: Thu, 14 May 2026 14:48:12 UTC
+Date: Thu, 14 May 2026 14:50:59 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- d02b52a7d56ec14b40377eed7690da33 1145 main/binary-amd64/Packages
- fe4fe18d2ffb1868a42f2b115dfe8e99 687 main/binary-amd64/Packages.gz
+ 1c3ba3c0b9b46a7f9a6668f526686790 1663 main/binary-amd64/Packages
+ 7335702ebdff5bdc06ff88354a238a55 889 main/binary-amd64/Packages.gz
  189cfb93a0cf65404409db3255c33601 93 main/binary-amd64/Release
 SHA1:
- ac1d8cab9d8ba243fbf86ec6231d25e5a472426e 1145 main/binary-amd64/Packages
- 6bbac14cc742b849d78ddab777bf364e31557e33 687 main/binary-amd64/Packages.gz
+ 95abc0397e05ceed11e1d4158ef8f53dd7957256 1663 main/binary-amd64/Packages
+ 0d21712f39ff7e0d6ed5adb4332baeafdbf76121 889 main/binary-amd64/Packages.gz
  198604f0f434ddcf86bf2a9440662283aa328709 93 main/binary-amd64/Release
 SHA256:
- 29a8803aeaf9074e18d0a85b2602c32ba23527ba46c82fdb25a03d4b76655960 1145 main/binary-amd64/Packages
- a80fde288becc14d0f295b5a6bac88e2c1f06d74e33679aec650ed81e72cefcb 687 main/binary-amd64/Packages.gz
+ 2608f455662620d6bedccb113967c23f454e796753cead5ba555a8187bcf781c 1663 main/binary-amd64/Packages
+ 591623ffd9168ea44c89e917a7bb511d3c5e48b44eb5dbac29ba73c48e314e89 889 main/binary-amd64/Packages.gz
  e7edef637ebb6887ab9702bc0b90199b7830bb8dfabcfb27c8f66b606df8b1e9 93 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEiW1GZgOO0GYJH+/OkVQ6y1FF/HcFAmoF4KwACgkQkVQ6y1FF
-/HfRTw/9Ev2sQ23lgwuTdtoRpZ9XHsoQpCdV1UVYZyZJI1YNBK/6jAH+m4tzayfK
-LQp7riA2eNZx0Qvj5F5JW040SlbtkA7DHnCciC1vTn/w14vptaYibkYyvUA5eBwv
-B8q/QOPE23ilylwsbh+qnnVTRD5wvok5K+4BYSSA8qAkDTu4cpss1rvYdoR2LouS
-rSiKsgqcK7/woz04UvcVnkDXM+YZnKBBE4ldo+dYMqNSl+cIdY4lCkNWhJvuFh2e
-Ieqa7fhbcbYnDseAXoWKdHKSLZ426lakLC0UI7HO62sOCKKCqQoB/UUg2HT1UZ9O
-dr4dM9oVMWP2JqO/UnLKo/wT2s+871bbj/jMOzxo/vvTU+gV6sJ9uv9R3emdMNj4
-VJORltenp4dOspqJI66FToF7ITwQc1NCoaiXZqsTCIPrdUm+Huvh0x5RiwjdezXB
-gFiJvUYXb4u5zjC7gaklSSaGmoTI7BXPETcLwJvLN4+5+wtnBrNf3HZ8KtsFTyIk
-E42MN0rwroYtIFhg3M/bPWg/VT/IkfiRl7Yb5NBSsUBoXjzFl5yHwjxv5uJunCOF
-9d52es6+txG5tJSMAo+TJOywDD2bY50yUAY0C9JL9KPZ0HpFEbM3LIWCjnmirLlk
-WqT0ACEOplQiM4qKhShhQ7gju0ldWb173O9u58AU5B4MzPd9/i4=
-=R9B4
+iQIzBAEBCgAdFiEEiW1GZgOO0GYJH+/OkVQ6y1FF/HcFAmoF4VQACgkQkVQ6y1FF
+/HdshBAAslG0jw9Td41RAK0bWURQhi34/PZuO4b5bnNtshsONXIJNJvXzFhBAsG4
+s/tXXo4w3Hs73aEcJFkihs+ctUlxXiyDgwbjoDYGWdNB2Uh21wiRBXbxez6J64SP
+iDWUXUGG6QeKeq7GT/+o6GN8SBPm1IvIAEnBPXRd+D3uiFJXdIEXySp4aPZo1YWn
+BjxiRs6IpZ7iYlmJxRPVEPDxd3aC5ZJD2jp45QITYcxAb42a85/huAQI05jdRF/j
+xyo6GguHUEQFyEI/Mf4i4oqGhX1arRcE/+sx/eeq5zIKIjRzzjesVjn6tyEYbXEy
+X7Z46yHak4xXJVS/RPiB0pIbHTyeRRuEtSOaO+YtE3Zkn3hL0l1cYxbBUK+cQnM6
+a1aKuXLqJE19iNxfr1aUn0LOKUi7DWkQ1W9X0iByQsZHlkDh9lQqo7KfB8YKL0tf
+yrA3OFG51dY/Rw5M4r4epL52popXr79F7fAicaAxZmFws13Vh4jXgx4U5adFJOc3
+S6WDdwbMxONAYY8F14Lv5C11OPzVVZMR5dvESD5DDAVawEAAlieCjM0fYYb72WrT
+Jjexv9TNTgPH/sgZjMiVixHNu2QOexXvmx+PNaha05nsY/3FvUK4PpeyNIHYd0pG
+UeCjs81UPjaMH2CfGbIWJyyziAHQUKoUmPOEdAqJ6v2xz52JgDk=
+=QjHM
 -----END PGP SIGNATURE-----
