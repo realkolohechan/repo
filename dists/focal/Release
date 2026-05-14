@@ -3,18 +3,18 @@ Label: knapt
 Suite: focal
 Codename: focal
 Version: 20.04
-Date: Thu, 14 May 2026 14:50:59 UTC
+Date: Thu, 14 May 2026 16:11:26 UTC
 Architectures: amd64
 Components: main
 MD5Sum:
- 1c3ba3c0b9b46a7f9a6668f526686790 1663 main/binary-amd64/Packages
- 7335702ebdff5bdc06ff88354a238a55 889 main/binary-amd64/Packages.gz
+ c34025cc829505420cfabfbfe80aed15 2111 main/binary-amd64/Packages
+ 68aaf3659124d9e28cf96a25a35093f4 1044 main/binary-amd64/Packages.gz
  189cfb93a0cf65404409db3255c33601 93 main/binary-amd64/Release
 SHA1:
- 95abc0397e05ceed11e1d4158ef8f53dd7957256 1663 main/binary-amd64/Packages
- 0d21712f39ff7e0d6ed5adb4332baeafdbf76121 889 main/binary-amd64/Packages.gz
+ ba6fba79260dc952ce7f51333ba96a7680247b0e 2111 main/binary-amd64/Packages
+ 920fe790af4506e71e2686c4392d5c49579c6a35 1044 main/binary-amd64/Packages.gz
  198604f0f434ddcf86bf2a9440662283aa328709 93 main/binary-amd64/Release
 SHA256:
- 2608f455662620d6bedccb113967c23f454e796753cead5ba555a8187bcf781c 1663 main/binary-amd64/Packages
- 591623ffd9168ea44c89e917a7bb511d3c5e48b44eb5dbac29ba73c48e314e89 889 main/binary-amd64/Packages.gz
+ 407220f017c5324fe13463f55c59aac5f4f18815178d091d674b586d17d96ce8 2111 main/binary-amd64/Packages
+ db1c1582ccae5354e7f1ae92fa539615c0e159f6fb21ea04bbd29dc8c4c57990 1044 main/binary-amd64/Packages.gz
  e7edef637ebb6887ab9702bc0b90199b7830bb8dfabcfb27c8f66b606df8b1e9 93 main/binary-amd64/Release
