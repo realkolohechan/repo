@@ -14,20 +14,6 @@ Description: PepperDE - A lightweight custom desktop environment
  A minimal desktop environment built around Openbox, Tint2, and Nitrogen.
  Includes a Zenity-based logout loop, Nemo file management, and a terminal-centric workflow.
 
-Package: pepperdm
-Version: 1.0
-Architecture: all
-Maintainer: You <you@example.com>
-Priority: optional
-Section: x11
-Filename: pool/main/p/pepperdm/pepperdm_1.0_all.deb
-Size: 2064
-SHA256: b3bfc440c410cb0ec90d332d39517096ad5555a399c07c8da0368cd0cff969f5
-SHA1: 1e3c8ea6e5a7a76d70ec7dab836616952bef0727
-MD5sum: b25ec9ae19ab8ad2b4fab6e450e4741e
-Description: Minimal Zenity-based X11 display manager
- A tiny display manager using Zenity dialogs and X11.
-
 Package: scratux
 Version: 1.0.0
 Architecture: amd64
@@ -50,9 +36,9 @@ Depends: libc6 (>= 2.31), libgtk-3-0 (>= 3.24), libgpgme11 (>= 1.14), libgpg-err
 Priority: optional
 Section: utils
 Filename: pool/main/s/spm/spm_1.0_all.deb
-Size: 94286
-SHA256: 653ea5bb9ed1590eb51b1394d86c66d584231209ee80d9521e628a60546e124f
-SHA1: 9362e0e9d80a0e7f5f82bc4556a9204285562328
-MD5sum: de360773d4e8b37a1058e87f3874ca97
+Size: 89022
+SHA256: 86c7ad45350272d777060919c011c1a08c860f8c296d7b8459723a1d8a2cae07
+SHA1: 5a0efa14dd0ea566ac1ff28233b4fcd043aee393
+MD5sum: ae39993a76821ddff8904cc5f5da2bf4
 Description: spm
 
