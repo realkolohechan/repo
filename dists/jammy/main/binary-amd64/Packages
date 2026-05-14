@@ -22,9 +22,9 @@ Depends: libc6 (>= 2.31), libgtk-3-0 (>= 3.24), libgpgme11 (>= 1.14), libgpg-err
 Priority: optional
 Section: utils
 Filename: pool/main/s/spm/spm_1.0_all.deb
-Size: 94280
-SHA256: 2c8054d8655ad11e82bdf6183a0d5926fb781f4e5c48bf08a15e8b9c93f6f9b9
-SHA1: 72554e8e86fe16e59fa2d04853dd21bcc649c968
-MD5sum: 27e0258b4072a335359843c003f8adad
+Size: 94286
+SHA256: 653ea5bb9ed1590eb51b1394d86c66d584231209ee80d9521e628a60546e124f
+SHA1: 9362e0e9d80a0e7f5f82bc4556a9204285562328
+MD5sum: de360773d4e8b37a1058e87f3874ca97
 Description: spm
 
