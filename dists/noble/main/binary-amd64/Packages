@@ -14,20 +14,6 @@ Description: PepperDE - A lightweight custom desktop environment
  A minimal desktop environment built around Openbox, Tint2, and Nitrogen.
  Includes a Zenity-based logout loop, Nemo file management, and a terminal-centric workflow.
 
-Package: pepperdm
-Version: 1.0
-Architecture: all
-Maintainer: You <you@example.com>
-Priority: optional
-Section: x11
-Filename: pool/main/p/pepperdm/pepperdm_1.0_all.deb
-Size: 2064
-SHA256: b3bfc440c410cb0ec90d332d39517096ad5555a399c07c8da0368cd0cff969f5
-SHA1: 1e3c8ea6e5a7a76d70ec7dab836616952bef0727
-MD5sum: b25ec9ae19ab8ad2b4fab6e450e4741e
-Description: Minimal Zenity-based X11 display manager
- A tiny display manager using Zenity dialogs and X11.
-
 Package: scratux
 Version: 1.0.0
 Architecture: amd64
